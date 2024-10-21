@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Aryan",
+      "place": "Delhi",
+      "phone": "12344636"
+    },
+    {
+      "id": "3",
+      "name": "Aman",
+      "place": "deoria",
+      "phone": "9871678778"
+    },
+    {
+      "id": "4",
+      "name": "kishan",
+      "place": "jaunpur",
+      "phone": "8577889484"
+    },
+    {
+      "id": "5",
+      "name": "Gaurav",
+      "place": "mirzapur",
+      "phone": "9864332222345"
+    },
+    {
+      "id": "1",
+      "name": "tommy",
+      "place": "usa",
+      "phone": "12345"
+    },
+    {
+      "id": "57749",
+      "name": "bhavna",
+      "place": "jaunpur",
+      "phone": "9876747656"
+    }
+  ]
+}
